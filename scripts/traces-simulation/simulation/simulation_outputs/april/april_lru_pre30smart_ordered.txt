@@ -1,0 +1,715 @@
+models/forest_april_official_hourly_ordered_prefetching30_numTrees300_seed1234_cache01.csv
+None
+smart
+april_ordered
+None
+None
+PYTHON CACHE SIMULATOR (caching_simulator_lookup_merged.py)
+...
+loading lookup table...
+done
+Policy: lru
+Cache size: 3.39 GB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 47463
+cache size: 2.69 GB
+hit ratio: 0.305310759176
+Byte Hit Rate: 0.116413929378
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 345
+2018-04-23 00:00:00: 16422
+2018-04-24 00:00:00: 13798
+2018-04-25 00:00:00: 4862
+2018-04-26 00:00:00: 653
+2018-04-27 00:00:00: 3648
+2018-04-28 00:00:00: 1051
+2018-04-29 00:00:00: 5629
+2018-04-30 00:00:00: 1055
+
+
+Policy: lru
+Cache size: 16.95 GB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 66820
+cache size: 16.15 GB
+hit ratio: 0.429826705605
+Byte Hit Rate: 0.336612015327
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 555
+2018-04-23 00:00:00: 17541
+2018-04-24 00:00:00: 15359
+2018-04-25 00:00:00: 7494
+2018-04-26 00:00:00: 2361
+2018-04-27 00:00:00: 8367
+2018-04-28 00:00:00: 1499
+2018-04-29 00:00:00: 12071
+2018-04-30 00:00:00: 1573
+
+
+Policy: lru
+Cache size: 33.9 GB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 75748
+cache size: 33.14 GB
+hit ratio: 0.487257008324
+Byte Hit Rate: 0.378993946387
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 562
+2018-04-23 00:00:00: 18235
+2018-04-24 00:00:00: 16589
+2018-04-25 00:00:00: 9594
+2018-04-26 00:00:00: 3666
+2018-04-27 00:00:00: 10681
+2018-04-28 00:00:00: 1950
+2018-04-29 00:00:00: 12448
+2018-04-30 00:00:00: 2023
+
+
+Policy: lru
+Cache size: 169.5 GB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 98954
+cache size: 169.41 GB
+hit ratio: 0.636532053674
+Byte Hit Rate: 0.515519750563
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 20902
+2018-04-24 00:00:00: 18486
+2018-04-25 00:00:00: 13850
+2018-04-26 00:00:00: 7145
+2018-04-27 00:00:00: 17337
+2018-04-28 00:00:00: 3695
+2018-04-29 00:00:00: 13398
+2018-04-30 00:00:00: 3552
+
+
+Policy: lru
+Cache size: 338.99 GB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 105601
+cache size: 338.17 GB
+hit ratio: 0.679289583039
+Byte Hit Rate: 0.576367661274
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21193
+2018-04-24 00:00:00: 19598
+2018-04-25 00:00:00: 14389
+2018-04-26 00:00:00: 7803
+2018-04-27 00:00:00: 19599
+2018-04-28 00:00:00: 4149
+2018-04-29 00:00:00: 13960
+2018-04-30 00:00:00: 4321
+
+
+Policy: lru
+Cache size: 1.66 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 111839
+cache size: 1.65 TB
+hit ratio: 0.719416176717
+Byte Hit Rate: 0.635561677549
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21417
+2018-04-24 00:00:00: 20612
+2018-04-25 00:00:00: 14814
+2018-04-26 00:00:00: 8582
+2018-04-27 00:00:00: 22285
+2018-04-28 00:00:00: 4176
+2018-04-29 00:00:00: 14106
+2018-04-30 00:00:00: 5258
+
+
+Policy: lru
+Cache size: 3.31 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 112518
+cache size: 3.31 TB
+hit ratio: 0.723783915913
+Byte Hit Rate: 0.648090967229
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20615
+2018-04-25 00:00:00: 14934
+2018-04-26 00:00:00: 8606
+2018-04-27 00:00:00: 22319
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14108
+2018-04-30 00:00:00: 5649
+
+
+Policy: lru
+Cache size: 6.62 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 113077
+cache size: 6.62 TB
+hit ratio: 0.727379742438
+Byte Hit Rate: 0.649102877074
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20626
+2018-04-25 00:00:00: 14952
+2018-04-26 00:00:00: 8711
+2018-04-27 00:00:00: 22320
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14108
+2018-04-30 00:00:00: 6073
+
+
+Policy: lru
+Cache size: 9.93 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 113318
+cache size: 9.93 TB
+hit ratio: 0.728930000386
+Byte Hit Rate: 0.649205420055
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15177
+2018-04-26 00:00:00: 8710
+2018-04-27 00:00:00: 22321
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14112
+2018-04-30 00:00:00: 6077
+
+
+Policy: lru
+Cache size: 13.24 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 113336
+cache size: 13.24 TB
+hit ratio: 0.729045787287
+Byte Hit Rate: 0.649386695725
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15186
+2018-04-26 00:00:00: 8711
+2018-04-27 00:00:00: 22323
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14111
+2018-04-30 00:00:00: 6084
+
+
+Policy: lru
+Cache size: 16.55 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 113500
+cache size: 16.55 TB
+hit ratio: 0.730100734604
+Byte Hit Rate: 0.650676271519
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15186
+2018-04-26 00:00:00: 8719
+2018-04-27 00:00:00: 22478
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14112
+2018-04-30 00:00:00: 6084
+
+
+Policy: lru
+Cache size: 19.86 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 113516
+cache size: 19.86 TB
+hit ratio: 0.730203656293
+Byte Hit Rate: 0.651079081386
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15186
+2018-04-26 00:00:00: 8721
+2018-04-27 00:00:00: 22491
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14112
+2018-04-30 00:00:00: 6085
+
+
+Policy: lru
+Cache size: 23.17 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 114530
+cache size: 23.17 TB
+hit ratio: 0.736726318363
+Byte Hit Rate: 0.657437934657
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15186
+2018-04-26 00:00:00: 8721
+2018-04-27 00:00:00: 22494
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 14998
+2018-04-30 00:00:00: 6210
+
+
+Policy: lru
+Cache size: 26.48 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 115774
+cache size: 26.48 TB
+hit ratio: 0.744728479718
+Byte Hit Rate: 0.665304528071
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15186
+2018-04-26 00:00:00: 8721
+2018-04-27 00:00:00: 22494
+2018-04-28 00:00:00: 4178
+2018-04-29 00:00:00: 16239
+2018-04-30 00:00:00: 6213
+
+
+Policy: lru
+Cache size: 29.79 TB
+Kind: None
+No restriction given.
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684268._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684202._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684342._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684370._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683644._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13683854._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684575._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13684470._000001.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11568978._000104.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658035._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000002.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000001.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000003.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000006.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000004.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000005.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000007.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000009.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13658010._000008.pool.root.1
+KeyError with File: mc15_13TeV:TXT.13720161._001410.tar.gz.1
+KeyError with File: mc16_13TeV:EVNT.11708479._000048.pool.root.1
+KeyError with File: mc16_13TeV:EVNT.11666665._001217.pool.root.1
+KeyError with File: mc16_13TeV:NTUP_PILEUP.13686578._000001.pool.root.1
+KeyError with File: data18_13TeV:data18_13TeV.00348894.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+KeyError with File: data18_13TeV:data18_13TeV.00348895.physics_Main.merge.HIST_L1RPC.f926_m1959_c1196_m1933._0001.1
+
+cache hits total: 115786
+cache size: 29.79 TB
+hit ratio: 0.744805670985
+Byte Hit Rate: 0.665338047793
+Files too big for cache: 0
+
+2018-04-22 00:00:00: 589
+2018-04-23 00:00:00: 21520
+2018-04-24 00:00:00: 20634
+2018-04-25 00:00:00: 15186
+2018-04-26 00:00:00: 8721
+2018-04-27 00:00:00: 22494
+2018-04-28 00:00:00: 4180
+2018-04-29 00:00:00: 16240
+2018-04-30 00:00:00: 6222
+
+
